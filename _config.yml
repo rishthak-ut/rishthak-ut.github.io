@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Rishi Thakkar"
-resume_title:                   "VP of Global Communications"
+resume_title:                   "ECE Student at UT Austin"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "rish.s.thak@gmail.com"
