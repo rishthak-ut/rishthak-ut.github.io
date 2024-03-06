@@ -1,19 +1,59 @@
 # Jobs
 # VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
-
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+- company: Perisphere
+  position: Machine Learning Intern
+  duration: Jan, 2024 &mdash; Present
+  summary: |
+      - Engineering a data collection tool for sourcing real-estate related product and image data from a data aggregator, incorporating OpenAI CLIP and LLaVa for verifying the relevance of scraped product images to queried data.
+      - Building a data pipeline to extract property images from Amazon S3-hosted PostgreSQL table and utilizing OpenAI CLIP and YOLO for accurate categorization of images and their objects.
+      - Fine-tuning a computer vision model in Python to allow for on-device inference and classification of rooms, appliances and housing materials during property scans.
 
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company: UT Orange Bike Project
+  position: Bike Mechanic
+  duration: Jan, 2023 &mdash; Present
+  summary: |
+    - Proficiently diagnosed and repaired a diverse range of bicycle issues on over 50+ bikes, ensuring optimal performance and safety for the UT community's bikers.
+    - Actively serviced a fleet of over 100 bikes and have rented out the entire fleet for the semester.
+    - Led engaging bike repair workshops, empowering customers with the skills and knowledge to maintain their bikes independently.
+
+- company: Texas Spacecraft Laboratory
+  position: Chief Engineer
+  duration: Jan, 2022 &mdash; Dec, 2022
+  summary: |
+    - Led the development of a 6U CubeSat, overseeing the implementation of a convolutional neural-network-based image processing algorithm in Python for near real-time (10Hz) estimation of a non-cooperative target's relative pose.
+    - Developed and optimized an advanced attitude estimation algorithm using stereo-camera-based computer vision techniques, achieving exceptional accuracy in translation (within a millimeter) and rotation (within a degree) for dynamic targets.
+    - Collaborated seamlessly with cross-functional teams, facilitating critical decisions on mission design, hardware/software implementation, and avionics selection, ensuring a cohesive and integrated satellite system.
+    - Engaged in design reviews and collaborative efforts with the Air Force Research Laboratory as part of the University Nanosatellite Program to ensure validate designs and iterate on development.
+    - Played a pivotal role in problem-solving and decision-making, fostering teamwork and effective communication channels among team members to ensure project success and mission objectives.
+
+- company: Texas Spacecraft Laboratory
+  position: Flight Software Engineer
+  duration: Mar, 2021 &mdash; Jan, 2022
+  summary: |
+    - Revamped and optimized the flight software for ground commands and hardware interfacing algorithms in C to suit the SERPENT mission's real-time processing needs.
+    - Designed and implemented structured and efficient flight software in C for the SERPENT mission, ensuring error-free operation and enabling adaptive procedures for mission success.
+    - Developed the command and data handling service for the SCOPE 3U CubeSat that runs a position, navigation, and timing algorithm that using Earth’s surface features.
+
+- company: Rocket Lab (Internship)
+  position: Avionics Software Engineer
+  duration: May, 2022 &mdash; Oct, 2022
+  summary: |
+    - Developed embedded drivers (C++) as part of the flight software, enabling control over critical avionics such as dual GNSS/INS device, radar altimeter, and flight cameras.
+    - Conducted thorough testing of the drivers to ensure optimal performance and reliability, contributing to the program's lifecycle testing.
+    - Implemented code to interface with ground station systems, facilitating seamless communication and data exchange.
+    - Designed efficient code for quick data dumping and parsing at high speeds (200 Hz) from various sensors, streamlining post-flight analysis and testing procedures.
+    - Authored comprehensive test scripts and procedures to validate the drivers, ensuring robustness and accuracy of embedded avionics control and functionality.
+
+- company: Texas Rocket Engineering Lab
+  position: Navigation Responsible Engineer
+  duration: May, 2021 &mdash; May, 2022
+  summary: |
+    - Designed and implemented a navigation algorithm in MATLAB using state-estimation techniques that accurately processes and filters raw IMU data, resulting in precise determination of position, attitude, and velocity for the rocket in real-time.
+
+- company: Texas Rocket Engineering Lab
+  position: Guidance, Navigation, Controls (GNC) Engineer
+  duration: Sep, 2020 &mdash; May, 2021
+  summary: |
+    - Elevated the accuracy of the 6DoF Simulink vehicle simulation by creating a detailed mass model and inertia tensor, contributing to more realistic results in vehicle dynamics and control analysis.
+    - Conducted in-depth computational fluid dynamics analysis on rocket components, leading to the design of a comprehensive drag model.
